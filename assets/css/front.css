@@ -1,0 +1,103 @@
+.kotak-depan-atas{
+	background-color: #e0e0e0;
+	height: 60px;
+}
+
+section{
+	background-color: #31a9e1;
+	height:450px;
+}
+
+
+
+.logo-kiri-atas{
+	float:left;
+	height:40px;
+	padding:10px 0px 0px 10px;
+}
+.tulisan-kanan-atas{
+	float:right;
+	height:40px;
+	padding:10px 10px 0px 0px;
+}
+
+.gambar1{
+	margin-left:auto;
+	margin-right:auto;
+	width:250px;
+	margin-top:15%;
+	margin-left:45%;
+	color:white;
+}
+
+.gambar1 p{
+	font-family: Calibri;
+}
+
+.gambar2 p{
+	font-family: Calibri;
+}
+
+.gambar2{
+	margin-left:auto;
+	margin-right:auto;
+	width:300px;
+	margin-top:11%;
+	margin-left:25%;
+	color:white;
+}
+
+.kotak1{
+	width:50%;
+	height:400px;
+	/*background-color: red;*/
+	float:left;
+	margin-top:25px	;
+}
+
+.kotak2{
+	width:50%;
+	height:400px;
+	/*background-color: navy;*/
+	float:left;
+	margin-top:25px	;
+}
+
+.tombollogin {
+	padding: 7px 25px 7px 10px;
+	background-color: #66BD2B;
+	font-size: 15px;
+	font-family: fontCaviar;
+	font-weight: bold;
+	color: white;
+	width:250px;
+	border: 4px solid;
+	border-color: #66BD2B;
+	cursor: pointer;
+	border-radius: 5px;
+	margin-top:5px;
+}
+
+a{
+	color:white;
+}
+.kotak-icon-bawah{
+	width: 70px;
+	height: 80px;
+	margin-top:20px;
+	margin-left: 127.5px;
+	/*background-color: resize: d;*/
+	float: left;
+}
+
+.kotak-icon-bawah p{
+	font-family: Calibri;
+	color:white;
+}
+
+footer{
+	background-color: #5d5d5d;
+	height:120px;
+	padding:10px;
+	color:white;
+}
